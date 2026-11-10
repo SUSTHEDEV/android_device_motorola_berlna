@@ -26,5 +26,3 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     BuildDesc="berlna_global-user 13 T1RMS33.1-110-17-12 f7bcd-35c05 release-keys" \
     BuildFingerprint=motorola/berlna_global/berlna:13/T1RMS33.1-110-17-12/f7bcd-35c05:user/release-keys \
     DeviceProduct=berlna_global
-
-PRODUCT_PACKAGES := $(filter-out Aperture, $(PRODUCT_PACKAGES))
