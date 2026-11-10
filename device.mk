@@ -27,6 +27,7 @@ PRODUCT_PACKAGES += \
     LineageSystemUIDevice \
     SettingsResDevice \
     SystemUIResDevice \
+    UpdaterResDevice \
     WifiResDevice
 
 # Audio
